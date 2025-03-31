@@ -1,1 +1,2 @@
-# ybi online training mini project 
+# ybi online training mini project on servo prediction
+
